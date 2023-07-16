@@ -1,0 +1,12 @@
+
+{
+"name":"CrikNews",
+"version": "1.0.0",
+"description": "Cricket extension",
+"manifest_version": 3,
+"author": "Lavish",
+"action":{
+    "default_popup":"index.html",
+    "default_title":" Chrome Extension"
+}
+}
